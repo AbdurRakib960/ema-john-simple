@@ -1,0 +1,26 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    margin: 5px;
+}
+.product-image{
+    width: 40%;
+}
+.product-title{
+    width: 58%;
+    margin-right: 2%;
+}
+.productName{
+    color: rgb(62, 62, 236);
+}
+.cart-btn{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(228, 112, 18);
+    border-radius: 5px;
+    border: 1px solid grey;
+    cursor: pointer;
+}
